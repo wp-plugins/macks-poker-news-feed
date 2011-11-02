@@ -3,7 +3,7 @@ Contributors: mackbincroft
 Donate link: http://www.jawer.org
 Tags: cards, poker, wsop, espn poker, world series of poker, poker news, poker games, las vegas, atlantic city, holdem, texas holdem, poker main event, wsop poker, poker coverage, poker results, poker leaders
 Requires at least: 2.2.1
-Tested up to: 3.1
+Tested up to: 3.2.1
 Stable tag: 0.5
 
 Lists the Latest Poker News
